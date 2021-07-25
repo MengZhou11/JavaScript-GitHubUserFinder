@@ -6329,4 +6329,14 @@ button.close {
   }
 }
 
+.list-group{
+padding-left: auto;
+}
+.col-md-9{
+  padding-left: 200px;
+}
+.btn{
+  margin-top: 20px;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
